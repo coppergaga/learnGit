@@ -4,4 +4,8 @@ this is a new added
 
 git branch test
 
+<<<<<<< HEAD
 another 
+=======
+another 
+>>>>>>> feature1
